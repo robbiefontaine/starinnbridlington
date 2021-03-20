@@ -1,0 +1,17 @@
+---
+description: ''
+featured_image: "/images/IMG_7430_.jpg"
+title: OVERNIGHT STAYS
+type: page
+---
+
+For availability and booking:  
+https://www.booking.com/hotel/gb/the-star-inn-bridlington1.en-gb.html
+
+Check-in:
+15:00 - 22:00
+
+Check-out:
+06:30 - 11:00
+
+{{< figure src="/images/BookingsExampleRoom.jpg" title="Double Room" >}}

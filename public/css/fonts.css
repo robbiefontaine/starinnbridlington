@@ -1,0 +1,36 @@
+/* roboto-regular - latin */
+@font-face {
+    font-family: 'NJFont';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/roboto-v20-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Roboto'), local('Roboto-Regular'),
+         url('../fonts/roboto-v20-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/roboto-v20-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/roboto-v20-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/roboto-v20-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/roboto-v20-latin-regular.svg#Roboto') format('svg'); /* Legacy iOS */
+  }
+  /* lekton-regular - latin */
+  @font-face {
+    font-family: 'Lekton';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/lekton-v10-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Lekton'), local('Lekton-Regular'),
+         url('../fonts/lekton-v10-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/lekton-v10-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/lekton-v10-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/lekton-v10-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/lekton-v10-latin-regular.svg#Lekton') format('svg'); /* Legacy iOS */
+  }
+  body {
+    font-family: 'NJFont', serif;
+  }
+  h1, h2, h3, h4, h5, h6, .nav, .article-duration, .archive-item-link, .article-meta, .footer {
+    font-family: 'NJFont', monospace;
+  }
+  code {
+    font-family: 'Lekton', monospace;
+    font-size: 100%;
+  }

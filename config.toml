@@ -1,0 +1,54 @@
+title = "THE STAR INN"
+baseURL = "/"
+languageCode = "en-uk"
+
+SectionPagesMenu = "main"
+Paginate = 3
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[params]
+  favicon = "images/favicon.ico"
+  site_logo = "images/red-star-clipart.svg"
+  description = "The old town pub in the gregorian town of Bridlington"
+  facebook = "https://www.facebook.com/pages/Ye%20Olde%20Star%20Inn/182537468430288/"
+  twitter = "https://twitter.com"
+  instagram = ""
+  youtube = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-gray"
+  featured_image = "/images/IMG_7430_.jpg"
+  
+[menu]
+   [[menu.main]]
+    identifier = "order"
+    name = "ORDER FROM TABLE"
+    url = "/order/"
+    weight = -100
+    [menu.main.params]
+      class = "highlight-menu-item"
+    
+  [[menu.main]]
+    identifier = "history"
+    name = "HISTORY"
+    url = "/history/"
+    weight = -90
+    
+  [[menu.main]]
+    identifier = "staywithus"
+    name = "STAY WITH US"
+    url = "/staywithus/"
+    weight = -80
+ 
+ [[menu.main]]
+    identifier = "findus"
+    name = "FIND US"
+    url = "/findus/"
+    weight = -70
+    
+ [[menu.main]]
+    identifier = "contact"
+    name = "CONTACT"
+    url = "/contact/"
+    weight = -60
+    
