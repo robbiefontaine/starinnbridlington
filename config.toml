@@ -22,7 +22,7 @@ enableRobotsTXT = true
 [menu]
    [[menu.main]]
     identifier = "order"
-    name = "ORDER FROM TABLE"
+    name = "ORDER"
     url = "/order/"
     weight = -100
     [menu.main.params]
