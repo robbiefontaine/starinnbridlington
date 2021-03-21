@@ -2,6 +2,7 @@
 description: ''
 featured_image: "/images/IMG_7430_.jpg"
 title: OVERNIGHT STAYS
+description: A warm welcome awaits guests at our highly rated pub B&B accommodation
 type: page
 ---
 
@@ -14,4 +15,5 @@ Check-in:
 Check-out:
 06:30 - 11:00
 
-{{< figure src="/images/BookingsExampleRoom.jpg" title="Double Room" >}}
+{{< figure src="/images/BookingsExampleRoom2.jpg" title="" >}}
+{{< figure src="/images/BookingsExampleRoom.jpg" title="Double Rooms" >}}

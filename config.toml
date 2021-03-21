@@ -36,7 +36,7 @@ enableRobotsTXT = true
     
   [[menu.main]]
     identifier = "staywithus"
-    name = "STAY WITH US"
+    name = "STAY"
     url = "/staywithus/"
     weight = -80
  
