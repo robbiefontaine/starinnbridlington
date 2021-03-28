@@ -32,7 +32,7 @@ mapview(p3, lwd = 2,  col.regions = "goldenrod", alpha.region = 0.6, cex = 8,
           map.types = c("OpenStreetMap", "Esri.WorldImagery", "CartoDB.Positron"),
           layer.name = "South Beach")
 
-mapviewOptions(fgb = FALSE).
+mapviewOptions(fgb = FALSE)
 
 mapshot(
   q@map,
