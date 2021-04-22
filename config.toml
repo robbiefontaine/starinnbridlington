@@ -12,7 +12,7 @@ enableRobotsTXT = true
   site_logo = "images/red-star-clipart.svg"
   description = "The old town pub in the gregorian town of Bridlington"
   facebook = "https://www.facebook.com/pages/Ye%20Olde%20Star%20Inn/182537468430288/"
-  twitter = "https://twitter.com"
+  twitter = ""
   instagram = ""
   youtube = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
@@ -28,11 +28,11 @@ enableRobotsTXT = true
     [menu.main.params]
       class = "highlight-menu-item"
     
-  [[menu.main]]
-    identifier = "history"
-    name = "HISTORY"
-    url = "/history/"
-    weight = -90
+ # [[menu.main]]
+#    identifier = "history"
+ #   name = "HISTORY"
+#    url = "/history/"
+#    weight = -90
     
   [[menu.main]]
     identifier = "staywithus"
