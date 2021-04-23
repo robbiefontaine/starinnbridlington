@@ -24,7 +24,7 @@ enableRobotsTXT = true
    [[menu.main]]
     identifier = "order"
     name = "ORDER"
-    url = "/order/"
+    url = "https://pay.yoello.com/v/wm-universecafe"
     weight = -100
     [menu.main.params]
       class = "highlight-menu-item"
