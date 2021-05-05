@@ -2,12 +2,12 @@
 description: ''
 featured_image: "/images/IMG_7430_.jpg"
 title: OVERNIGHT STAYS
-description: A warm welcome awaits guests at our highly rated pub B&B accommodation
+description: A warm welcome awaits guests at our highly rated B&B accommodation
 type: page
 ---
 
 For availability and booking:  
-https://www.booking.com/hotel/gb/the-star-inn-bridlington1.en-gb.html
+https://www.booking.com/hotel/gb/the-star-inn-bridlington1.html
 
 Check-in:
 15:00 - 22:00
