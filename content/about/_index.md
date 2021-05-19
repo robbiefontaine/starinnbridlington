@@ -5,7 +5,7 @@ title: ABOUT
 description:
 ---
 
-**We are an outside only venue up until May 17 2021. We have close to 20 outside tables which gives us a current capacity of approximately 70**
+**We are a table service only for the foreseeable future. Our customers are now able to sit inside as well as outside (20 tables). Up to 6 persons from a different household are permitted at a single table. Track and trace measures will be in place. Facemasks must be worn when not seated.**
 
 For your information, at this present point in time, we have decided to operate as an adults only venue, this has been a decision made considering many internal and external factors, and one we hope you'll understand.
 
