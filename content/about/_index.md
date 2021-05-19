@@ -5,7 +5,7 @@ title: ABOUT
 description:
 ---
 
-**We are a table service only for the foreseeable future. Our customers are now able to sit inside as well as outside (20 tables). Up to 6 persons from a different household are permitted at a single table. Track and trace measures will be in place. Facemasks must be worn when not seated.**
+**We are a table service only for the foreseeable future. Our customers are now able to sit inside as well as outside. Up to 6 persons from a different household are permitted at a single table. To protect both our staff and customers track and trace measures will be in place and facemasks must be worn when not seated.**
 
 For your information, at this present point in time, we have decided to operate as an adults only venue, this has been a decision made considering many internal and external factors, and one we hope you'll understand.
 
