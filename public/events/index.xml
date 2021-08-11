@@ -5,6 +5,27 @@
     <link>/events/</link>
     <description>Recent content in EVENTS on THE STAR INN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language><atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ladies Day 2021</title>
+      <link>/events/20210811-ladies-day-2021/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/events/20210811-ladies-day-2021/</guid>
+      <description>Wednesday 11th August 2021&amp;hellip; There&amp;rsquo;s a real treat in store of live horse racing on the big screen and the ultimate afternoon tea as we bring the excitement of Beverley Races direct to the Star! Tickets are selling fast so get in touch to grab your spot.
+  </description>
+    </item>
+    
+    <item>
+      <title>Official Opening of our new Gin Bar</title>
+      <link>/events/20210807-gin-bar-official-opening-2021/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/events/20210807-gin-bar-official-opening-2021/</guid>
+      <description>Saturday 7th August 2021&amp;hellip;
+It&amp;rsquo;s been a while in the making but we&amp;rsquo;d like to celebrate the opening of our lovely new Gin Bar with you all.</description>
+    </item>
+    
   </channel>
 </rss>

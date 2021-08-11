@@ -47,16 +47,17 @@ enableRobotsTXT = true
     name = "FIND US"
     url = "/findus/"
     weight = -70
- 
+    
+
  [[menu.main]]
     identifier = "about"
     name = "ABOUT"
     url = "/about/"
-    weight = -60
+    weight = -50
         
  [[menu.main]]
     identifier = "contact"
     name = "CONTACT"
     url = "/contact/"
-    weight = -50
+    weight = -40
     
