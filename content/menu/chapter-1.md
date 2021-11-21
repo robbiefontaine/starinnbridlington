@@ -12,7 +12,7 @@ Our featured Christmas menu as we wind down 2021...
 ---
 # Star Inn Christmas Menu
 ---
-## Starters: 
+## STARTERS
 
 Spiced Pea & Ham hock soup with cheddar cheese sables. 
 
@@ -24,7 +24,7 @@ Vegan garlic, lemon and chilli charred Brussels Sprouts.
 
 Roast silverside beef and horseradish Yorkshire puddings. 
 
-## Main 
+## MAIN
 
 Traditional Turkey breast, pork shoulder and crackling dinner served with:
 - buttery potato mash & goose fat roasted Maris piper potatoes

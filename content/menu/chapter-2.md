@@ -1,12 +1,12 @@
 ---
 date: "2021-10-01T11:00:59-04:00"
-description: Pierre Gringoire
+description: 
 featured_image: /images/steak-1.png
 tags: []
 title: 'Steakhouse Menu'
 ---
 
-Locally sourced meat of the finest provenance awaits in our expertly run restaurant in the heart of the Bridlington's Old Town. 
+Locally sourced meat of the finest provenance awaits in our expertly run restaurant in the heart of the Bridlington's Old Town...
 
 ---
 # The Star Inn Steakhouse Menu
@@ -26,7 +26,7 @@ Locally sourced meat of the finest provenance awaits in our expertly run restaur
 
 **Halloumi fries & salad** | _Panko covered halloumi fries with salad drizzled in a Greek minted yoghurt_ | **£4.50**
 
-## MAIN COURSE
+## MAIN
 
 **12 oz Sirloin Steak** | _A tender, well marbled cut, full of flavour_ | **£26.95**
 
