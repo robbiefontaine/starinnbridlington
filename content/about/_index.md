@@ -5,9 +5,9 @@ title: ABOUT
 description:
 ---
 
-**Welcome back to the "old normal" 👊
+**Welcome back to the "old normal" 👊**
 
-You will not require a face covering to enter but we won't judge if you still want to. You will not be required to scan or sign in upon arrival. We are still encouraging orders from the table and are happy to serve you at your table as much as we can but you can also now order at the bar. No standing though please!**
+You will not require a face covering to enter but we won't judge if you still want to. You will not be required to scan or sign in upon arrival. We are still encouraging orders from the table and are happy to serve you at your table as much as we can but you can also now order at the bar. No standing though please!
 
 For your information, at this present point in time, we have decided to operate as an adults only venue, this has been a decision made considering many internal and external factors, and one we hope you'll understand.
 
