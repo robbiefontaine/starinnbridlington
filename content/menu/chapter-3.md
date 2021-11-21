@@ -6,6 +6,10 @@ tags: []
 title: 'Wine Menu'
 ---
 
+Our wine list at The Star Inn is made up of wines which have been chosen to complement the cuisine of our
+Head Chef Lee Hayward.
+
+
 # WINE LIST
 
 ## RED WINE (Price per bottle) 
