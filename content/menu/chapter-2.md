@@ -46,7 +46,7 @@ Locally sourced meat of the finest provenance awaits in our expertly run restaur
 
 **10 0z Horseshoe Gammon Steak** | _This local honey glazed and mustard rubbed traditional classic is full of intense flavours and a generous size_ | **£16.95**
 
-**8 oz (1/2 lv) Star Inn steakhouse burger** | _Two 4 oz lean steak burgers served in a toasted bun with butchers best dry cure bacon and lavishly covered with applewood smoked cheese_ | **£14.95**
+**8 oz (1/2 lb) Star Inn steakhouse burger** | _Two 4 oz lean steak burgers served in a toasted bun with butchers best dry cure bacon and lavishly covered with applewood smoked cheese_ | **£14.95**
 
 **Bomber Command Steak pie** | _A locally favoured, historical, generously filled lean steak pie in a shortcrust pastry, and a rich beef & onion gravy_ | **£14.95**
 
