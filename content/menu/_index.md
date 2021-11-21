@@ -4,4 +4,4 @@ featured_image: /images/IMG_7430_.jpg
 title: MENU
 ---
 
-For a little bit of history behind the establishment please browse the articles below
+Our current, future and past food menu's will be made available on this page. You can also explore our drinks menu of handpicked wines, Rosé, Cocktails, Fizz, soft drinks and more...

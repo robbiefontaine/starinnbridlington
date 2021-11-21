@@ -1,7 +1,7 @@
 ---
 date: "2021-10-01T11:00:59-04:00"
 description: Pierre Gringoire
-featured_image: ""
+featured_image: /images/wine-1.png
 tags: []
 title: 'Wine Menu'
 ---
