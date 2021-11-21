@@ -1,9 +1,9 @@
 ---
-date: "2017-04-10T11:00:59-04:00"
+date: "2021-10-01T11:00:59-04:00"
 description: Pierre Gringoire
 featured_image: ""
 tags: []
-title: 'Chapter II: Pierre Gringoire'
+title: 'Steakhouse Menu'
 ---
 
 Nevertheless, as be harangued them, the satisfaction and admiration
@@ -12,79 +12,191 @@ he reached that untoward conclusion: “As soon as his illustrious eminence,
 the cardinal, arrives, we will begin,” his voice was drowned in a thunder
 of hooting.
 
-“Begin instantly! The mystery! the mystery immediately!” shrieked the
-people. And above all the voices, that of Johannes de Molendino was
-audible, piercing the uproar like the fife’s derisive serenade: “Commence
-instantly!” yelped the scholar.
+The Star Inn Steakhouse Menu. 
 
-“Down with Jupiter and the Cardinal de Bourbon!” vociferated Robin
-Poussepain and the other clerks perched in the window.
+STARTERS
 
-“The morality this very instant!” repeated the crowd; “this very instant!
-the sack and the rope for the comedians, and the cardinal!”
+Stuffed Mushrooms 
+Chestnut mushrooms stuffed with dry cured bacon, shallots & cheddar cheese. 
+£4.50
 
-Poor Jupiter, haggard, frightened, pale beneath his rouge, dropped his
-thunderbolt, took his cap in his hand; then he bowed and trembled and
-stammered: “His eminence—the ambassadors—Madame Marguerite of
-Flanders—.” He did not know what to say. In truth, he was afraid of
-being hung.
+Moules Marinieres
 
-Hung by the populace for waiting, hung by the cardinal for not having
-waited, he saw between the two dilemmas only an abyss; that is to say, a
-gallows.
+Fresh mussels in a traditional Normandy style- steamed in white wine and served with freshly baked buttered bread. 
+£8.50
 
-Luckily, some one came to rescue him from his embarrassment, and assume
-the responsibility.
+Traditional Soup of the day. 
 
-An individual who was standing beyond the railing, in the free space
-around the marble table, and whom no one had yet caught sight of, since
-his long, thin body was completely sheltered from every visual ray by the
-diameter of the pillar against which he was leaning; this individual, we
-say, tall, gaunt, pallid, blond, still young, although already wrinkled
-about the brow and cheeks, with brilliant eyes and a smiling mouth, clad
-in garments of black serge, worn and shining with age, approached the
-marble table, and made a sign to the poor sufferer. But the other was so
-confused that he did not see him. The new comer advanced another step.
+Soup du jour, made fresh every day from all locally sourced ingredients. 
+£4.95
 
-“Jupiter,” said he, “my dear Jupiter!”
+Scallops and Chorizo. 
 
-The other did not hear.
+Pan fried Scallops with warm paprika tasting sausage 
 
-At last, the tall blond, driven out of patience, shrieked almost in his
-face,—
+£8.00
 
-“Michel Giborne!”
+Cheese and garlic baguette. 
 
-“Who calls me?” said Jupiter, as though awakened with a start.
+Beautiful fresh baked baguette covered with shredded Monterey Jack cheese, butter and crushed garlic. 
 
-“I,” replied the person clad in black.
+£4.50
 
-“Ah!” said Jupiter.
+Halloumi fries & salad.  
 
-“Begin at once,” went on the other. “Satisfy the populace; I undertake to
-appease the bailiff, who will appease monsieur the cardinal.”
+Panko covered halloumi fries with salad drizzled in a Greek minted yoghurt. 
 
-Jupiter breathed once more.
+£4.50
 
-“Messeigneurs the bourgeois,” he cried, at the top of his lungs to the
-crowd, which continued to hoot him, “we are going to begin at once.”
+MAIN COURSE. 
 
-“_Evoe Jupiter! Plaudite cives_! All hail, Jupiter! Applaud,
-citizens!” shouted the scholars.
+12 oz Sirloin Steak 
 
-“Noel! Noel! good, good,” shouted the people.
+A tender, well marbled cut, full of flavour. 
 
-The hand clapping was deafening, and Jupiter had already withdrawn under
-his tapestry, while the hall still trembled with acclamations.
+£26.95
 
-In the meanwhile, the personage who had so magically turned the tempest
-into dead calm, as our old and dear Corneille puts it, had modestly
-retreated to the half-shadow of his pillar, and would, no doubt, have
-remained invisible there, motionless, and mute as before, had he not been
-plucked by the sleeve by two young women, who, standing in the front row
-of the spectators, had noticed his colloquy with Michel Giborne-Jupiter.
+12 oz Wexford Steak
 
-“Master,” said one of them, making him a sign to approach. “Hold your
-tongue, my dear Liénarde,” said her neighbor, pretty, fresh, and very
-brave, in consequence of being dressed up in her best attire. “He is not a
-clerk, he is a layman; you must not say master to him, but messire.”
+Sirloin steak covered with a flame toasted slab of Blue Stilton cheese. 
+
+£28.95
+
+10 oz Ribeye Steak
+
+A dark and rich cut, well marbled with a distinctive full flavour. 
+
+£24.95
+
+10 oz Rump Steak
+
+A popular steak and best cooked medium or medium rare. Not as tender as other cuts but more than makes up for it with its distinctive savouriness of flavour. 
+
+£19.95
+
+10 oz Fillet Steak. 
+
+Easily the most lean steak cut with absolutely no marbling and next to zero fat. Full of rich taste. 
+
+£29.95
+
+16 oz T Bone (Porterhouse) 
+
+Sirloin one side of the bone and fillet on the other. One of the old stalwart steaks packed with differing tenderness and full flavour. 
+
+£29.95
+
+16 oz Tomahawk Steak. 
+
+Large and impressive steak cut, well marbled, tender, tasty and juicy. 
+Best cooked medium rare or medium unless specified otherwise. 
+
+£29.95 
+
+32 oz Tomahawk Steak. 
+
+The largest steak we do here at the Star inn. As above but this one is engineered to be good for a sharing platter between two people. 
+
+£59.95
+
+10 0z Horseshoe Gammon Steak
+
+This local honey glazed and mustard rubbed traditional classic is full of intense flavours and a generous size. 
+
+£16.95
+
+8 oz (1/2 lv) Star Inn steakhouse burger. 
+
+Two 4 oz lean steak burgers served in a toasted bun with butchers best dry cure bacon and lavishly covered with applewood smoked cheese. 
+
+£14.95
+
+Bomber Command Steak pie. 
+
+A locally favoured, historical, generously filled lean steak pie in a shortcrust pastry, and a rich beef & onion gravy. 
+
+£14.95
+
+Famous Star Inn Mixed Grill. 
+
+10oz rump steak, 4oz lean pork steak, 5oz Gammon, pork sausages, chicken breast and lamb chop.  
+A staple here since the mid 1960s. 
+
+£34.95
+
+Smothered/ Hunters Chicken. 
+
+Chicken breast topped with bacon Mayotte cheddar cheese and smoky bbq sauce, or the smothered variety which has no bbq sauce and is instead covered in caramelised red onion. 
+
+£14.95
+
+Barnsley Chop. 
+
+Back to back lamb chop, a traditional West Yorkshire cut, served pink, tender and full of flavour. 
+
+£19.95
+
+Game or Catch of the day!
+
+Please ask staff or check the seasonal menu section for what beautiful fish and game dishes are available as these change with the seasons. 
+These dishes range from Haddock, Sea Bass, to 10 oz Venison Steaks and pheasant and orange pie! 
+
+
+SURF AND TURF. 
+
+Add four Scallops to your steak for £8.00
+Four king size black Asian prawns for £9.50
+Whitby Wholetail breaded Scampi £5.50
+
+SIDES. 
+
+Traditional buttery potato Mash 
+
+Irish Colcannon mash- mash with leek, cabbage and bacon lardons. 
+
+Dijon Mustard mash. 
+
+Fresh Chips. 
+
+Potato wedges. 
+
+Sweet potato fries. 
+
+Sweet & crunchy mixed leaf salad. 
+
+Buttered new potatoes. 
+
+Beer battered onion rings. 
+
+Garlic mash. 
+
+All £2.95
+
+
+SAUCES
+
+Peppercorn. 
+
+Diane. 
+
+Salsa Verde. 
+
+Cavalo Nero dressing. 
+
+Bearnaise. 
+
+Mushroom. 
+
+Creamy Garlic & Butter. 
+
+Sweet Chilli & soured cream. 
+
+
+All £2.95
+
+SWEETS 
+
+The summer sweets are all made on the premises by a french trained sweet chef. 
+In the winter season the sweets are cooked by the head chef and are all traditional English sweets such as Madeira cake topped with marzipan and icing, to special bread and butter pudding with a special twist. 
+
+All the sweets are £4.50 and are generally available with several accompaniments such as cream, ice cream or custard. 
