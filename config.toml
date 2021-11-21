@@ -30,18 +30,18 @@ enableRobotsTXT = true
     [menu.main.params]
       class = "highlight-menu-item"
     
- # [[menu.main]]
-#    identifier = "history"
- #   name = "HISTORY"
-#    url = "/history/"
-#    weight = -90
-    
   [[menu.main]]
     identifier = "staywithus"
     name = "STAY"
     url = "/staywithus/"
     weight = -80
- 
+
+  [[menu.main]]
+    identifier = "menu"
+    name = "MENU"
+    url = "/menu/"
+    weight = -75 
+    
  [[menu.main]]
     identifier = "findus"
     name = "FIND US"

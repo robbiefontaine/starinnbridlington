@@ -15,6 +15,6 @@ Keith, Leigh, Jodie and the team welcome you to the Star Inn located in the hist
 
 **Friday || 15:00-01:00**
 
-**Saturday || 12:00-01:00**
+**Saturday || 15:00-01:00**
 
 **Sunday || 12:00-00:00**

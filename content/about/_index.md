@@ -5,7 +5,8 @@ title: ABOUT
 description:
 ---
 
-**We are a table service only venue for the foreseeable future. Our customers are now able to sit inside as well as outside. Up to 6 persons from a different household are permitted at a single table. To protect both our staff and customers track and trace measures will be in place and facemasks must be worn when not seated.**
+**Welcome back to the "old normal". 👊
+You will not require a face covering to enter but we won't judge if you still want to. You will not be required to scan or sign in upon arrival. We are still encouraging orders from the table and are happy to serve you at your table as much as we can but you can also now order at the bar. No standing though please!**
 
 For your information, at this present point in time, we have decided to operate as an adults only venue, this has been a decision made considering many internal and external factors, and one we hope you'll understand.
 
