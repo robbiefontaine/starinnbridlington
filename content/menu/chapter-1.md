@@ -9,12 +9,9 @@ title: 'Christmas 2021 Menu'
 
 Our featured Christmas menu as we wind down 2021...
 
-
-
-
-
+---
 # Star Inn Christmas Menu
-
+---
 ## Starters: 
 
 Spiced Pea & Ham hock soup with cheddar cheese sables. 

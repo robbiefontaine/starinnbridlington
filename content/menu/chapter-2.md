@@ -8,8 +8,9 @@ title: 'Steakhouse Menu'
 
 Locally sourced meat of the finest provenance awaits in our expertly run restaurant in the heart of the Bridlington's Old Town. 
 
-
+---
 # The Star Inn Steakhouse Menu
+---
 
 ## STARTERS
 
