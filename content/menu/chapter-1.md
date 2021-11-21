@@ -1,6 +1,6 @@
 ---
 date: "2021-11-20T10:58:08-04:00"
-description: The Grand Hall
+description: It's the most wonderful time of the year...
 featured_image: /images/xmas-1.png
 tags:
 - Christmas
