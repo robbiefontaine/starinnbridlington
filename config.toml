@@ -41,19 +41,25 @@ enableRobotsTXT = true
     name = "MENU"
     url = "/menu/"
     weight = -75 
+
+[[menu.main]]
+    identifier = "functions"
+    name = "FUNCTIONS"
+    url = "/functions/"
+    weight = -70
     
  [[menu.main]]
     identifier = "findus"
     name = "FIND US"
     url = "/findus/"
-    weight = -70
+    weight = -65
     
 
  [[menu.main]]
     identifier = "about"
     name = "ABOUT"
     url = "/about/"
-    weight = -50
+    weight = -60
         
  [[menu.main]]
     identifier = "contact"
