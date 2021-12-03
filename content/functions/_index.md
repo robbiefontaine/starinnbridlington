@@ -9,13 +9,13 @@ We have a beautiful public house, main bar and oak cocktail bar, attached to our
 
 We have reviewed and looked at the array of options for our events, be they weddings or parties.  By keeping it simple we fall in line with present party policy and budget.   We have decided a spectacular hog roast is a way a ahead for all our functions,  with all the theatre of a skilled chef carving the meat!  We have therefore arranged to price for such on a see as you read basis. Below are the following options ;- 
  
-**Up to 75 guests | Between 1st Oct and 30th May | Price is £995.**
+**Up to 75 guests | Between 1st Oct and 30th May | Price is £1495.**
 
-**Up to 75 guests | Between 1st Jun and 30th Sep | Price is £1295.**
+**Up to 75 guests | Between 1st Jun and 30th Sep | Price is £1795.**
 
-**Up to 150 guests | Between 1st Oct and 30th May | Price is £1995.**
+**Up to 150 guests | Between 1st Oct and 30th May | Price is £2495.**
 
-**Up to 150 guests | Between 1st Jun and 30th Sep | Price is £2495.**
+**Up to 150 guests | Between 1st Jun and 30th Sep | Price is £2995.**
 
 
 ---
