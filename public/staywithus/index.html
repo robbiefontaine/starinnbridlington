@@ -79,6 +79,12 @@
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/gallery/" title="GALLERY page">
+              GALLERY
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
             <a class="hover-white no-underline white-90" href="/staywithus/" title="STAY page">
               STAY
             </a>
@@ -167,16 +173,28 @@
 15:00 - 22:00</p>
 <p>Check-out:
 06:30 - 11:00</p>
-<p><figure>
-    <img src="/images/BookingsExampleRoom2.jpg"/> 
-</figure>
+<p>
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/images/BookingsExampleRoom2.jpg" />
+    </div>
+    <a href="/images/BookingsExampleRoom2.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
-<figure>
-    <img src="/images/BookingsExampleRoom.jpg"/> <figcaption>
-            <h4>Double Rooms</h4>
-        </figcaption>
-</figure>
-</p>
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/images/BookingsExampleRoom.jpg" />
+    </div>
+    <a href="/images/BookingsExampleRoom.jpg" itemprop="contentUrl"></a>
+      <figcaption><h4>Double Rooms</h4>
+      </figcaption>
+  </figure>
+</div></p>
 </section>
     <section class="flex-ns flex-wrap justify-around mt5">
       
@@ -185,7 +203,10 @@
 </article>
 
     </main>
-    <footer class="bg-gray bottom-0 w-100 pa3" role="contentinfo">
+    
+
+
+<footer class="bg-gray bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="/" >
     &copy;  THE STAR INN 2021 

@@ -29,6 +29,12 @@ enableRobotsTXT = true
     weight = -100
     [menu.main.params]
       class = "highlight-menu-item"
+
+  [[menu.main]]
+    identifier = "gallery"
+    name = "GALLERY"
+    url = "/gallery/"
+    weight = -90
     
   [[menu.main]]
     identifier = "staywithus"
