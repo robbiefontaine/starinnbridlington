@@ -14,6 +14,6 @@ imgs_bare <- lapply(src1[c(1:6)],function(x){
 slickR::slickR(imgs_bare)
 
 
-htmltools::css(marginLeft='auto',marginRight='auto',width='100%',height='auto')
-slickR::slickR(slick_div(src1))
+CSS <- htmltools::css(marginLeft='auto',marginRight='auto',width='auto',height='auto')
+slickR::slickR(slick_div(src1, css = CSS))
 
