@@ -13,4 +13,5 @@ imgs_bare <- lapply(src1[c(1:6)],function(x){
 })
 slickR::slickR(imgs_bare)
 
+slickR::slickR(slick_div(src1))
 
